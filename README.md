@@ -16,8 +16,8 @@ arabic Voice recognition for inputting numbers and operators.
 Error handling for invalid input.
 Clear button to reset the calculator.
 ## Technologies Used
-Flutter
-TensorFlow Lite
+- Flutter
+- TensorFlow Lite
 ## Future Improvements
 Add more advanced operations, such as square root and exponentiation.
 Improve voice recognition accuracy.
