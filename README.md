@@ -2,14 +2,14 @@
 A calculator application that incorporates voice recognition technology through machine learning. Built using Flutter and machine learning libraries.
 
 ## Installation
-Clone the repository to your local machine.
-git clone https://github.com/your-username/calculator-app.git
-Navigate to the project directory.
-cd calculator-app
-Install the required dependencies.
-flutter pub get
-Run the app on an emulator or physical device.
-flutter run
+1. Clone the repository to your local machine.
+2. git clone https://github.com/your-username/calculator-app.git
+3. Navigate to the project directory.
+4. cd calculator-app
+4. Install the required dependencies.
+5. flutter pub get
+6. Run the app on an emulator or physical device.
+7. flutter run
 ## Features
 - Basic arithmetic operations (addition, subtraction, multiplication, division).
 - arabic Voice recognition for inputting numbers and operators.
