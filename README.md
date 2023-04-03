@@ -23,7 +23,7 @@ Add more advanced operations, such as square root and exponentiation.
 Improve voice recognition accuracy.
 Support for multiple languages.
 ## Screenshots
-add image
+[screenshot](Mohamad-Atif1/fluttercalc/flutter_01.png)
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
