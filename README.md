@@ -18,7 +18,7 @@ Clear button to reset the calculator.
 ## Technologies Used
 Flutter
 TensorFlow Lite
-##Future Improvements
+## Future Improvements
 Add more advanced operations, such as square root and exponentiation.
 Improve voice recognition accuracy.
 Support for multiple languages.
