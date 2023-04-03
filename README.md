@@ -3,7 +3,7 @@ A calculator application that incorporates voice recognition technology through 
 
 ## Installation
 1. Clone the repository to your local machine.
-2. git clone https://github.com/your-username/calculator-app.git
+2. git clone https://github.com/Mohamad-Atif1/fluttercalc.git
 3. Navigate to the project directory.
 4. cd calculator-app
 4. Install the required dependencies.
