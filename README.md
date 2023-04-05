@@ -25,6 +25,5 @@ A calculator application that incorporates voice recognition technology through 
 ## Screenshots
 [screenshot](flutter_01.png)
 ## License
-- This project is licensed under the MIT License - see the LICENSE file for details.
 
 - Feel free to use this code for your own projects or contribute to the project by submitting pull requests.
